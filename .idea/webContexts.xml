@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/common/footer.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/common" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/common/header.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/common" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/common/modal/loginModal.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/common/modal" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/community/detail.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/community" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/customer/faq.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/customer" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/enroll.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/home.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/info/come.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/info" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/middleware/naver_auth.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/middleware" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/myPage/myPage.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/myPage" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/myPage/userSearch.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/myPage" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/reservation/timereservation.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/reservation" />
+      </map>
+    </option>
+  </component>
+</project>
